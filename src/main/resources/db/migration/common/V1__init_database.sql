@@ -13,4 +13,4 @@ create table book_seq (
     next_val bigint
 ) engine=InnoDB;
 
-insert into book_seq values ( 1 );
+insert into book_seq values ( 0 );
